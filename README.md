@@ -53,7 +53,7 @@ AI連携には、MCPサーバーのセットアップとAIクライアントへ�
 
 ## 必要環境
 
-- **OS**：64-bit Windows 10（1809 以降）または Windows 11
+- **OS**：Windows 11（64-bit）
 - **JRA-VAN**：利用者ご自身の有効な JRA-VAN DataLab. 利用権
 - **JV-Link**：公式JV-Linkの **32bit版** のインストールと利用キーの設定
 - **データベース**：PostgreSQL 18（推奨）
